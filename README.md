@@ -13,6 +13,7 @@ Whether you're here to:
 - 👀 See how someone else is learning and growing in the field  
 
 **Let's connect, learn, and grow together!** 🌱
+
 Thanks for visiting! 🙌
 
 ## 🧰 **Tech Stack**  
@@ -26,4 +27,5 @@ Thanks for visiting! 🙌
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"/>  
   <img src="https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>  
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/CoreJava-007396?style=flat&logo=java&logoColor=white" alt="Core Java"/>
 </p>
